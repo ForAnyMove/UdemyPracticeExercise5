@@ -1,0 +1,1 @@
+Just duplicating an inp-ut for email in SimpleForm component with all dependently variables.
